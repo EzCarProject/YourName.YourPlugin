@@ -1,0 +1,2 @@
+# YourName.YourPlugin
+ Example Plugin
